@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktechindecor=self.webpackChunktechindecor||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"interiordecor","permalink":"/blog/tags/interiordecor","count":1},{"label":"tech","permalink":"/blog/tags/tech","count":1}]')}}]);

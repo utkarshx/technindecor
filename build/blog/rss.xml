@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Tech In Decor Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://your-docusaurus-test-site.com/technindecor/blog</link>
         <description>Tech In Decor Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/welcome</link>
-            <guid>https://your-docusaurus-test-site.com/blog/welcome</guid>
+            <link>https://your-docusaurus-test-site.com/technindecor/blog/welcome</link>
+            <guid>https://your-docusaurus-test-site.com/technindecor/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi This is Disha]]></description>
             <content:encoded><![CDATA[<p>Hi This is Disha</p><h1>Hello</h1><h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-are-you">How Are You<a href="#how-are-you" class="hash-link" aria-label="Direct link to How Are You" title="Direct link to How Are You">​</a></h3><p><a href="https://www.google.com" target="_blank" rel="noopener noreferrer">hello</a></p>]]></content:encoded>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechindecor=self.webpackChunktechindecor||[]).push([[15],{7397:e=>{e.exports=JSON.parse('{"label":"interiordecor","permalink":"/technindecor/blog/tags/interiordecor","allTagsPath":"/technindecor/blog/tags","count":1}')}}]);

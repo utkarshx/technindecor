@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechindecor=self.webpackChunktechindecor||[]).push([[934],{1825:e=>{e.exports=JSON.parse('{"label":"tech","permalink":"/technindecor/blog/tags/tech","allTagsPath":"/technindecor/blog/tags","count":1}')}}]);
