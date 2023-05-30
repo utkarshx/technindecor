@@ -13,7 +13,7 @@ permissions:
 concurrency:
   group: "pages"
   cancel-in-progress: false
-  
+
 jobs:
   deploy:
     environment:
@@ -40,4 +40,4 @@ jobs:
           path: build
       - name: Deploy to GitHub Pages
         id: deployment  
-        uses: actions/deploy-pages@v1pool
+        uses: actions/deploy-pages@v1
